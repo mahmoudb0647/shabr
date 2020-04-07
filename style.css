@@ -10,3 +10,7 @@
   animation-delay: 2s;
   animation-iteration-count: infinite;
 }
+.top-buffer {
+  margin-top:20px; 
+  
+}
