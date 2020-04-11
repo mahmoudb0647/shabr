@@ -19,3 +19,18 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.bg {
+  background-image:url(img/background1.jpeg);
+}
+.bg2 {
+  background-image:url(img/background2.jpg);
+}
+.bg3 {
+  background-image:url(img/background3.jpg);
+}
+.bg4{
+  background-image:url(img/background1.jpeg);
+}
+.bg5{
+  background-image:url(img/bg52.jpg);
+}
